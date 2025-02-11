@@ -581,6 +581,7 @@ html::-webkit-scrollbar-thumb {
     border-top: 0.1rem solid #222;
     background: #333;
     clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
+    max-width: 100%;
   }
 
   .header .navbar.active {
